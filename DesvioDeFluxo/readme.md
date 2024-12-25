@@ -23,3 +23,15 @@ ArquivoIso646.c: Mostra a utilidade do arquivo “iso646.h”, que permite alter
 RestoDivisaoSemMOD.c: Programa que recebe um valor e verifica se valor é divisível por 4 e 5, se não for, exibe mensagem de valor não divisível. Este programa não utiliza o operador MOD (%), que retorna o resto, mas sim uma fórmula.
 
 RestoMOD.c: Programa que recebe um valor e verifica se valor é divisível por 4 e 5, se não for, exibe mensagem de valor não divisível. Utiliza operador MOD (%);
+
+Exercicio1a.c: Recebe três valores, e apresenta em ordem crescente.
+
+Exercicio1b.c: Recebe três valores e efetua a equação de segundo grau.
+
+Exercicio1c.c: Programa recebe quatro notas, faz o cálculo da média e se media maior que 5, exibe mensagem de aprovado e média. Se não, exibe mensagem de reprovado e média.
+
+Exercicio1d.c: Le quatro notas, se media maior ou igual 7, o aluno é aprovado. Se menor, o programa pede a nota do exame, soma junto com a média e calcula nova média, se maior ou igual a 5, o aluno é aprovado em exame. Se não é reprovado.
+
+Exercicio1e.c: Recebe dois números, verifica qual maior e exibe diferença.
+
+
